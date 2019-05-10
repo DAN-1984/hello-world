@@ -11,7 +11,7 @@ namespace Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World"); // Выводит Hello World на экран
-            Console.ReadKey(); // Приостанавливает выполнение программы (pause)
+            Console.ReadKey(); // Приостанавливает выполнение программы (Нажмите любую клавишу)
         }
     }
 }
